@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Whast the usershave
+// @name         QuillBot Premium Unlocker Premium
 // @namespace    https://github.com/longkidkoolstar
 // @version      1.2.1
 // @description  Unlocks Quillbot Premium so that you don't have to pay.
